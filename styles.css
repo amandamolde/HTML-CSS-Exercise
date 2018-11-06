@@ -1,6 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     color: #58595b;
+    text-align: center;
 }
 
 .title {
@@ -16,7 +17,7 @@ body {
 }
 
 .jumbotron {
-    text-align: center;
+    /* text-align: center; */
     background-image: url(./images/background-image.jpg);
     background-size: cover;
     border-bottom: 10px solid #00c7b1;
