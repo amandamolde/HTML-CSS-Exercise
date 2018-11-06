@@ -21,3 +21,13 @@ p {
     background-size: cover;
     border-bottom: 10px solid #00c7b1;
 }
+
+a {
+    color: #ff6939;
+}
+
+.copyright {
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #59595b;
+}
