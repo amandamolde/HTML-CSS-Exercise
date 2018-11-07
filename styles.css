@@ -81,3 +81,8 @@ form {
 .sign-up-form {
     margin: 0 80px;
 }
+
+.icon {
+    height: 50%;
+    width: 50%;
+}
