@@ -70,19 +70,6 @@ h4 {
     border-top: 1px solid #59595b;
 }
 
-/* form {
-    text-align: left;
-}
-
-
-.form-check {
-    text-align: center;
-}
-
-.sign-up-form {
-    margin: 0 80px;
-} */
-
 .icon {
     height: 60%;
     width: 60%;
@@ -125,7 +112,7 @@ main {
 
 .form-sign-up {
     margin: 0 auto;
-    width: 0%;
+    width: 10%;
 }
 
 .btn-primary {
@@ -138,4 +125,7 @@ main {
 
 form {
     background-color: whitesmoke;
+    padding: 50px 0;
+    text-align: left;
+    font-weight: 600;
 }
