@@ -74,6 +74,7 @@ h4 {
     text-align: left;
 }
 
+
 .form-check {
     text-align: center;
 }
@@ -133,4 +134,8 @@ main {
     color: white;
     border: none;
     padding: 10px 25px;
+}
+
+form {
+    background-color: whitesmoke;
 }
