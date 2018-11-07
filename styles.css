@@ -91,3 +91,14 @@ form {
     height: 8%;
     width: 8%;
 }
+
+h2 {
+    color: #00c7b1;
+    font-weight: 600;
+}
+
+h3 {
+    color: #ff6939;
+    text-transform: uppercase;
+    font-weight: 600;
+}
