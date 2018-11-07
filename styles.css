@@ -69,3 +69,15 @@ h2 {
     padding: 10px 70px;
     border-top: 1px solid #59595b;
 }
+
+form {
+    text-align: left;
+}
+
+.form-check {
+    text-align: center;
+}
+
+.sign-up-form {
+    margin: 0 80px;
+}
