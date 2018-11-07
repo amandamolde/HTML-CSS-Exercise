@@ -117,12 +117,20 @@ main {
     margin-top: 20px;
 }
 
-/* .checkbox {
+.form-checkbox-row {
     margin: 0 auto;
-    width: 50%;
-} */
+    width: 40%;
+}
 
-/* .sign-up-btn {
+.form-sign-up {
     margin: 0 auto;
-    width: 50%;
-} */
+    width: 0%;
+}
+
+.btn-primary {
+    background-color: #00c7b1;
+    font-weight: 600;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+}
