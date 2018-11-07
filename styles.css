@@ -4,6 +4,12 @@ body {
     text-align: center;
 }
 
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 .jumbotron {
     width: 100%;
     height: 100%;
@@ -35,11 +41,7 @@ h1 {
     font-size: 66px;
     line-height: 1.1;
     font-weight: 900;
-    padding: 0 200px;
-}
-
-.hero-sub-title {
-    padding: 0 250px;
+    /* padding: 0 15px; */
 }
 
 p {
