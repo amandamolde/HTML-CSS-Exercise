@@ -70,7 +70,7 @@ h4 {
     border-top: 1px solid #59595b;
 }
 
-form {
+/* form {
     text-align: left;
 }
 
@@ -80,7 +80,7 @@ form {
 
 .sign-up-form {
     margin: 0 80px;
-}
+} */
 
 .icon {
     height: 60%;
@@ -116,3 +116,13 @@ main {
 .icon-footer {
     margin-top: 20px;
 }
+
+/* .checkbox {
+    margin: 0 auto;
+    width: 50%;
+} */
+
+/* .sign-up-btn {
+    margin: 0 auto;
+    width: 50%;
+} */
