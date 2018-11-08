@@ -55,7 +55,7 @@ a {
 
 .call-to-sign-up {
     background-color: #ff6939;
-    padding: 1px 0;
+    padding: 0.5% 0;
 }
 
 h4 {
@@ -67,7 +67,7 @@ h4 {
 
 .copyright {
     text-align: center;
-    padding: 10px 0;
+    padding-top: 1%;
     border-top: 1px solid #59595b;
 }
 
@@ -95,15 +95,15 @@ h3 {
 }
 
 main {
-    margin-bottom: 32px;
+    margin-bottom: 1%;
 }
 
 .main-title {
-    margin-bottom: 50px;
+    margin-bottom: 7%;
 }
 
 .icon-footer {
-    margin-top: 20px;
+    margin-top: 15%;
 }
 
 .form-checkbox-row {
@@ -125,7 +125,7 @@ main {
 }
 
 form {
-    padding: 50px 0;
+    padding: 5% 0;
     text-align: left;
     font-weight: 600;
 }
