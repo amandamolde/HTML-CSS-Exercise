@@ -41,7 +41,6 @@ h1 {
     font-size: 66px;
     line-height: 1.1;
     font-weight: 900;
-    /* padding: 0 15px; */
 }
 
 p {
@@ -151,5 +150,12 @@ form {
     }
     p {
         font-size: 8px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .icon {
+        height: 30%;
+        width: 30%;
     }
 }
