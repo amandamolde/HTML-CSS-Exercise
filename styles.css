@@ -144,9 +144,12 @@ form {
         font-size: 14px;
     }
     h4 {
-        font-size: 12px;
+        font-size: 14px;
     }
     p { 
+        font-size: 12px;
+    }
+    label {
         font-size: 12px;
     }
 }
