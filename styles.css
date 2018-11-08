@@ -85,13 +85,14 @@ h4 {
 h2 {
     color: #00c7b1;
     font-weight: 600;
+    font-size: 32px;
 }
 
 h3 {
     color: #ff6939;
     text-transform: uppercase;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 24px;
 }
 
 main {
@@ -126,14 +127,29 @@ main {
 }
 
 form {
-    background-color: whitesmoke;
     padding: 50px 0;
     text-align: left;
     font-weight: 600;
 }
 
-@media (max-width: 767.98px) {
+.sign-up-form {
+    background-color: whitesmoke;
+}
+
+@media (max-width: 768px) {
     h1 {
-        font-size: 33px;
+        font-size: 32px;
+    }
+    h2 {
+        font-size: 16px;
+    }
+    h3 {
+        font-size: 12px;
+    }
+    h4 {
+        font-size: 12px;
+    }
+    p {
+        font-size: 8px;
     }
 }
